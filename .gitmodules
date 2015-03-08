@@ -1,0 +1,12 @@
+[submodule "ubus"]
+	path = ubus
+	url = git://nbd.name/luci2/ubus.git
+[submodule "libubox"]
+	path = libubox
+	url = git://git.openwrt.org/project/libubox.git
+[submodule "uclient"]
+	path = uclient
+	url = git://git.openwrt.org/project/uclient.git
+[submodule "ustream-ssl"]
+	path = ustream-ssl
+	url = git://nbd.name/ustream-ssl.git
